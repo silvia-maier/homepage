@@ -1,0 +1,32 @@
+body {
+  font-family: helvetica, 'helvetica neue', sans-serif;
+}
+
+a {
+  color: #c12c90;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.cl-main {
+  color: #3aa1b1;
+}
+
+.cl-main a {
+  color: #3aa1b1;
+}
+
+.b--main-46 {
+  border-color: #3aa1b1;
+}
+
+.cl-sec {
+  color: #c12c90;
+}
+
+.eml:before {
+  content: attr(data-x) "\0040" attr(data-y);
+}
